@@ -1,6 +1,7 @@
 # OctoPrint-NotLoggedIn
 
 Shows a big ugly warning banner when you are not logged in.
+![Screenshot](https://s3.amazonaws.com/matthewrayfield.com/misc/OctoPrint-NotLoggedIn.png)
 
 ## Setup
 
